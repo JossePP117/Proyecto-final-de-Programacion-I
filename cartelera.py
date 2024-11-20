@@ -144,3 +144,4 @@ class Cartelera:
 
         self.ventana.mainloop()
 
+Cartelera() # Julio mamaguevo
